@@ -20,3 +20,8 @@ A list of InfoSec related Links
 
 # Vulnerability Management
 * [CI/CD Streamlining Vulnerability Remediation](https://blog.vulcan.io/ci/cd-streamlining-vulnerability-remediation)
+
+# Office365
+* [Managing Office 365 Guest Accounts](https://www.petri.com/managing-office-365-guest-accounts)
+* [Discover Who Creates Guest Accounts in Office 365 Applications](https://www.petri.com/knowing-guest-accounts-office-365)
+* [Identifying Obsolete Guest User Accounts in an Office 365 Tenant](https://www.petri.com/guest-account-obsolete-activity)
