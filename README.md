@@ -6,7 +6,7 @@ A list of InfoSec related Links
 
 # Active Directory
 * [Praetorian - Active Directory Visualization for Blue Teams and Threat Hunters](https://www.praetorian.com/blog/active-directory-visualization-for-blue-teams-and-threat-hunters)
-* [http://woshub.com/who-reset-the-password-in-ad/](How to Check Who Reset the Password of a User in Active Directory)
+* [http://woshub.com/who-reset-the-password-in-ad](How to Check Who Reset the Password of a User in Active Directory)
 * [Forensics: Active Directory ACL investigation](https://blogs.technet.microsoft.com/pfesweplat/2017/01/28/forensics-active-directory-acl-investigation/)
 * [Active Directory administrative tier model](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#ESAE_BM)
 * [Privileged Access Workstations](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/privileged-access-workstations)
@@ -25,3 +25,4 @@ A list of InfoSec related Links
 * [Managing Office 365 Guest Accounts](https://www.petri.com/managing-office-365-guest-accounts)
 * [Discover Who Creates Guest Accounts in Office 365 Applications](https://www.petri.com/knowing-guest-accounts-office-365)
 * [Identifying Obsolete Guest User Accounts in an Office 365 Tenant](https://www.petri.com/guest-account-obsolete-activity)
+*[Immediately revoke access to Office 365 applications](https://www.michev.info/Blog/Post/1137/immediately-revoke-access-to-office-365-applications)
