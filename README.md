@@ -26,3 +26,4 @@ A list of InfoSec related Links
 * [Discover Who Creates Guest Accounts in Office 365 Applications](https://www.petri.com/knowing-guest-accounts-office-365)
 * [Identifying Obsolete Guest User Accounts in an Office 365 Tenant](https://www.petri.com/guest-account-obsolete-activity)
 *[Immediately revoke access to Office 365 applications](https://www.michev.info/Blog/Post/1137/immediately-revoke-access-to-office-365-applications)
+* [Office365 Labs](https://docs.microsoft.com/en-us/microsoft-365/enterprise/simulated-ent-base-configuration-microsoft-365-enterprise?view=o365-worldwide)
