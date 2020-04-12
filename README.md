@@ -31,6 +31,7 @@ A list of InfoSec related Links
 * [Windows PowerShell to manage Office 365](https://io365.wordpress.com/2012/04/03/windows-powershell-to-manage-office-365/)
 * [How to create a backdoor to Azure AD](http://o365blog.com/post/aadbackdoor/)
 * [Application access policies in Exchange Online](https://practical365.com/exchange-online/application-access-policies-in-exchange-online/)
+* [How to build Conditional Access rule sets] (https://blog.thinformatics.com/2020/03/how-to-build-conditional-access-rulesets/)
 
 # Networking
 * [GIT for Network Engineers - Setup GIT locally and then create a repository on GitHub](https://www.youtube.com/watch?v=4-yP6pEzyQw&feature=emb_logo)
