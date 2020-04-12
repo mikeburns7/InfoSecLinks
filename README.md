@@ -14,6 +14,8 @@ A list of InfoSec related Links
 
 # Windows
 * [@browninfosecguy - Sysmon 101](https://medium.com/@browninfosecguy/sysmon-101-7bf99e22fb0c?)
+* [How to display firewall rule ports numbers with PowerShell](https://itluke.online/2018/11/27/how-to-display-firewall-rule-ports-with-powershell/)
+
 
 # PowerShell
 * [Making PowerShellGallery modules Portable](https://evotec-xyz.cdn.ampproject.org/c/s/evotec.xyz/making-powershellgallery-modules-portable/amp/)
@@ -25,5 +27,10 @@ A list of InfoSec related Links
 * [Managing Office 365 Guest Accounts](https://www.petri.com/managing-office-365-guest-accounts)
 * [Discover Who Creates Guest Accounts in Office 365 Applications](https://www.petri.com/knowing-guest-accounts-office-365)
 * [Identifying Obsolete Guest User Accounts in an Office 365 Tenant](https://www.petri.com/guest-account-obsolete-activity)
-*[Immediately revoke access to Office 365 applications](https://www.michev.info/Blog/Post/1137/immediately-revoke-access-to-office-365-applications)
-* [Office365 Labs](https://docs.microsoft.com/en-us/microsoft-365/enterprise/simulated-ent-base-configuration-microsoft-365-enterprise?view=o365-worldwide)
+* [Immediately revoke access to Office 365 applications](https://www.michev.info/Blog/Post/1137/immediately-revoke-access-to-office-365-applications)
+* [Windows PowerShell to manage Office 365](https://io365.wordpress.com/2012/04/03/windows-powershell-to-manage-office-365/)
+* [How to create a backdoor to Azure AD](http://o365blog.com/post/aadbackdoor/)
+* [Application access policies in Exchange Online](https://practical365.com/exchange-online/application-access-policies-in-exchange-online/)
+
+# Networking
+* [GIT for Network Engineers - Setup GIT locally and then create a repository on GitHub](https://www.youtube.com/watch?v=4-yP6pEzyQw&feature=emb_logo)
