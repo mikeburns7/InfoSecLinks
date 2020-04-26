@@ -27,6 +27,7 @@ A list of InfoSec related Links
 * [Managing Office 365 Guest Accounts](https://www.petri.com/managing-office-365-guest-accounts)
 * [Discover Who Creates Guest Accounts in Office 365 Applications](https://www.petri.com/knowing-guest-accounts-office-365)
 * [Identifying Obsolete Guest User Accounts in an Office 365 Tenant](https://www.petri.com/guest-account-obsolete-activity)
+<<<<<<< HEAD
 * [Immediately revoke access to Office 365 applications](https://www.michev.info/Blog/Post/1137/immediately-revoke-access-to-office-365-applications)
 * [Windows PowerShell to manage Office 365](https://io365.wordpress.com/2012/04/03/windows-powershell-to-manage-office-365/)
 * [How to create a backdoor to Azure AD](http://o365blog.com/post/aadbackdoor/)
