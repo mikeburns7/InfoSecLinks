@@ -3,6 +3,8 @@ A list of InfoSec related Links
 # AWS
 * [toniblyx - My Arsenal of AWS Security tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 * [Conformity - IAM](https://www.cloudconformity.com/conformity-rules/IAM/)
+* [MDSec - Designing The Adversary Simulation Lab](https://www.mdsec.co.uk/2020/04/designing-the-adversary-simulation-lab/)
+
 
 # Active Directory
 * [Praetorian - Active Directory Visualization for Blue Teams and Threat Hunters](https://www.praetorian.com/blog/active-directory-visualization-for-blue-teams-and-threat-hunters)
@@ -11,6 +13,8 @@ A list of InfoSec related Links
 * [Active Directory administrative tier model](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#ESAE_BM)
 * [Privileged Access Workstations](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/privileged-access-workstations)
 * [Privileged Access Management for Active Directory Domain Services](https://docs.microsoft.com/en-us/microsoft-identity-manager/pam/privileged-identity-management-for-active-directory-domain-services)
+* [Hackndo Blog - Great Resources for AD Security](https://en.hackndo.com/)
+
 
 # Windows
 * [@browninfosecguy - Sysmon 101](https://medium.com/@browninfosecguy/sysmon-101-7bf99e22fb0c?)
