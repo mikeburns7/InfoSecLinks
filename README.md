@@ -3,6 +3,8 @@ A list of InfoSec related Links
 # AWS
 * [toniblyx - My Arsenal of AWS Security tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 * [Conformity - IAM](https://www.cloudconformity.com/conformity-rules/IAM/)
+* [MDSec - Designing The Adversary Simulation Lab](https://www.mdsec.co.uk/2020/04/designing-the-adversary-simulation-lab/)
+
 
 # Active Directory
 * [Praetorian - Active Directory Visualization for Blue Teams and Threat Hunters](https://www.praetorian.com/blog/active-directory-visualization-for-blue-teams-and-threat-hunters)
@@ -11,6 +13,8 @@ A list of InfoSec related Links
 * [Active Directory administrative tier model](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#ESAE_BM)
 * [Privileged Access Workstations](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/privileged-access-workstations)
 * [Privileged Access Management for Active Directory Domain Services](https://docs.microsoft.com/en-us/microsoft-identity-manager/pam/privileged-identity-management-for-active-directory-domain-services)
+* [Hackndo Blog - Great Resources for AD Security](https://en.hackndo.com/)
+
 
 # Windows
 * [@browninfosecguy - Sysmon 101](https://medium.com/@browninfosecguy/sysmon-101-7bf99e22fb0c?)
@@ -28,10 +32,17 @@ A list of InfoSec related Links
 * [Discover Who Creates Guest Accounts in Office 365 Applications](https://www.petri.com/knowing-guest-accounts-office-365)
 * [Identifying Obsolete Guest User Accounts in an Office 365 Tenant](https://www.petri.com/guest-account-obsolete-activity)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e8e744813dbeb07661a9878f0d47282069296bee
 * [Immediately revoke access to Office 365 applications](https://www.michev.info/Blog/Post/1137/immediately-revoke-access-to-office-365-applications)
 * [Windows PowerShell to manage Office 365](https://io365.wordpress.com/2012/04/03/windows-powershell-to-manage-office-365/)
 * [How to create a backdoor to Azure AD](http://o365blog.com/post/aadbackdoor/)
 * [Application access policies in Exchange Online](https://practical365.com/exchange-online/application-access-policies-in-exchange-online/)
+<<<<<<< HEAD
+=======
+* [How to build Conditional Access rule sets] (https://blog.thinformatics.com/2020/03/how-to-build-conditional-access-rulesets/)
+>>>>>>> e8e744813dbeb07661a9878f0d47282069296bee
 
 # Networking
 * [GIT for Network Engineers - Setup GIT locally and then create a repository on GitHub](https://www.youtube.com/watch?v=4-yP6pEzyQw&feature=emb_logo)
