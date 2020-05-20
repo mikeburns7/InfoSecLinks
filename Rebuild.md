@@ -1,3 +1,3 @@
- | First Header  | Second Header |
- | ------------  | ------------- |
- | Cell 1        | Cell 2        |
+ | Old infrastructure, old security | Old infrastructure, new security | New infrastructure, new security |
+ | ------------  | ------------- | ----------| 
+ | Remediation efforts are based on intelligence gathered during IR. Using existing domain and  infrastructure, block known file and network based IOCs, rebuild compromised systems, reset know compromised accounts.       | Building of upon earlier concepts, while still using existing domain and infrastructure, begin to introduce modern security concepts during remediation efforts. Goal is to minimize impact if attacker re-enters network | Build a new domain, applications, and services on cloud based infrastructure and services. Quickly digitally transform the organization’s IT operations. Implement modern security concepts starting day 1. 
