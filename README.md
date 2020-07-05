@@ -4,6 +4,7 @@ A list of InfoSec related Links
 * [toniblyx - My Arsenal of AWS Security tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 * [Conformity - IAM](https://www.cloudconformity.com/conformity-rules/IAM/)
 * [MDSec - Designing The Adversary Simulation Lab](https://www.mdsec.co.uk/2020/04/designing-the-adversary-simulation-lab/)
+* [Marci Lancini - Kubernetes Threat Modeling](https://www.marcolancini.it/2020/blog-kubernetes-threat-modelling/)
 
 
 # Active Directory
