@@ -9,7 +9,7 @@ A list of InfoSec related Links
 
 # Active Directory
 * [Praetorian - Active Directory Visualization for Blue Teams and Threat Hunters](https://www.praetorian.com/blog/active-directory-visualization-for-blue-teams-and-threat-hunters)
-* [http://woshub.com/who-reset-the-password-in-ad](How to Check Who Reset the Password of a User in Active Directory)
+* [How to Check Who Reset the Password of a User in Active Directory](http://woshub.com/who-reset-the-password-in-ad)
 * [Forensics: Active Directory ACL investigation](https://blogs.technet.microsoft.com/pfesweplat/2017/01/28/forensics-active-directory-acl-investigation/)
 * [Active Directory administrative tier model](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#ESAE_BM)
 * [Privileged Access Workstations](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/privileged-access-workstations)
