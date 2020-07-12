@@ -1,0 +1,37 @@
+
+https://infra.engineer/azure/52-site-to-site-vpn-between-aws-and-azure
+
+
+Azure 
+create vnet - create a vlan that is large enough for your vpc/resource group
+    - create a frontend/backend subnets within this vnet
+Create a gatewaysubnet - this is going to act like a transient vnet, so it just needs to be a small subnet
+    ie 10.0.255/27
+Create a virtual Public IP
+
+Create a virtual network gateway - this is equivilent to a VPN appliance    
+
+az network vnet-gateway create --gateway-type Vpn --location eastus --name hbfw-VnetGateway --no-wait --public-ip-addresses hbfw-vnetgatewayip --resource-group hbfw --sku Basic --vnet hbfw --vpn-type RouteBased
+
+
+AWS
+Build out VPC  -again a large subnet to support your build out
+     create frontend/backend subnet within the VPC
+
+Customer Gateway -  this is the non-aws side of the VPN. this could be your on-prem VPN appliance or cloud that you are peering with 
+
+Create virutal private gateway - this is the AWS side (Anchor point) of the VPN connection
+
+Create VPN connection - estabishes route to Azure
+ - download configuration file
+
+
+ Azure 
+ - create local network gateway - this is establishing a route to Azure
+ Create a local network gateway to represent the on-premises site that you want to connect to a virtual network. The local network gateway specifies the public IP address of the VPN device and IP address ranges located on the on-premises site. Later, create a VPN gateway connection between the virtual network gateway for the virtual network, and the local network gateway for the on-premises site. 
+
+ az network local-gateway create -g hbfw p -n AWSLocalGateway --gateway-ip-address x.x.x.x--local-address-prefixes 172.31.0.0/16
+ 
+ select site to site connection
+
+ az network vpn-connection create -g hbfw -n AWSConnection --vnet-gateway1 hbfw-xxxx --local-gateway2 xxxxLocalGateway --shared-key xxxxxxxxx
