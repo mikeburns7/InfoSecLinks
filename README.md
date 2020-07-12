@@ -40,3 +40,6 @@ A list of InfoSec related Links
 
 # Networking
 * [GIT for Network Engineers - Setup GIT locally and then create a repository on GitHub](https://www.youtube.com/watch?v=4-yP6pEzyQw&feature=emb_logo)
+
+# Threat Modeling
+* [Towards Data Science - How to Perform Threat Modeling & Security Analysis in 5 Steps](https://towardsdatascience.com/how-to-perform-threat-modeling-security-analysis-in-5-steps-c42639efc952?gi=615aab3f775)
