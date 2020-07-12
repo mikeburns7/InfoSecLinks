@@ -30,8 +30,8 @@ Create VPN connection - estabishes route to Azure
  - create local network gateway - this is establishing a route to Azure
  Create a local network gateway to represent the on-premises site that you want to connect to a virtual network. The local network gateway specifies the public IP address of the VPN device and IP address ranges located on the on-premises site. Later, create a VPN gateway connection between the virtual network gateway for the virtual network, and the local network gateway for the on-premises site. 
 
- az network local-gateway create -g hbfw p -n AWSLocalGateway --gateway-ip-address 3.228.174.27 --local-address-prefixes 172.31.0.0/16
+ az network local-gateway create -g hbfw p -n AWSLocalGateway --gateway-ip-address x.x.x.x--local-address-prefixes 172.31.0.0/16
  
  select site to site connection
 
- az network vpn-connection create -g hbfw -n AWSConnection --vnet-gateway1 hbfw-VnetGatewa --local-gateway2 AWSLocalGateway --shared-key xamaXavWRX9O54PrYqqFXNpKWeKqiuS0
+ az network vpn-connection create -g hbfw -n AWSConnection --vnet-gateway1 hbfw-xxxx --local-gateway2 xxxxLocalGateway --shared-key xxxxxxxxx
