@@ -43,3 +43,6 @@ A list of InfoSec related Links
 
 # Threat Modeling
 * [Towards Data Science - How to Perform Threat Modeling & Security Analysis in 5 Steps](https://towardsdatascience.com/how-to-perform-threat-modeling-security-analysis-in-5-steps-c42639efc952?gi=615aab3f775)
+
+# Data Science
+* [If I had to start learning Data Science again, how would I do it?](https://towardsdatascience.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93)
